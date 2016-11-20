@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{B39215F6-7CB8-44B1-868E-E11DBAABBB18}|Default">
+  <MonoDevelop.Ide.ItemProperties.FileSQZ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileSQZ\Program.cs">
+    <Files>
+      <File FileName="FileSQZ\Program.cs" Line="96" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

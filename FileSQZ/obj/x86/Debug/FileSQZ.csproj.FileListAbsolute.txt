@@ -1,0 +1,4 @@
+D:\MyStuff\IN PROGRESS\FileSQZ\FileSQZ\bin\Debug\FileSQZ.exe
+D:\MyStuff\IN PROGRESS\FileSQZ\FileSQZ\bin\Debug\FileSQZ.pdb
+D:\MyStuff\IN PROGRESS\FileSQZ\FileSQZ\obj\x86\Debug\FileSQZ.exe
+D:\MyStuff\IN PROGRESS\FileSQZ\FileSQZ\obj\x86\Debug\FileSQZ.pdb
